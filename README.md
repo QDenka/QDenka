@@ -126,18 +126,5 @@ Modular AI system for Twitch streams — computer vision, speech recognition/gen
 - 🚀 **Full Cycle** — From database schema to deployment pipeline, I own the whole stack
 - ☕ **Reliability** — 10+ years of shipping production code (and only occasionally breaking it)
 
----
-
-<div align="center">
-
-#### 📬 Let's Connect
-
-Whether you need a backend architect, want to collaborate on open-source, or just want to talk tech over coffee — reach out!
-
-**denis@kaban.dev** · [kaban.dev](https://kaban.dev) · [LinkedIn](https://linkedin.com/in/denis-khodakovskii-214318209)
-
----
-
-*"Ship fast, iterate faster, and never trust code that works on the first try."* 🚀
 
 </div>

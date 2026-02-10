@@ -14,7 +14,7 @@ Building high-load systems by day, teaching robots to be human by night 🤖☕
 
 ### 👋 About
 
-Backend engineer with **10+ years of experience** building high-load traffic distribution systems, AI-powered business tools, and real estate platforms processing millions of requests daily.
+Backend engineer with **8+ years of experience** building high-load traffic distribution systems, AI-powered business tools, and real estate platforms processing millions of requests daily.
 
 🇻🇳 Based in Da Nang, Vietnam · 🌍 Open to remote opportunities worldwide
 

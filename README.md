@@ -151,13 +151,11 @@ Modular AI system for Twitch streams — computer vision, speech recognition/gen
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Metrics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=qdenka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=FFFFFF&count_private=true" alt="Denis's GitHub Stats" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=qdenka&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&area_color=70A5FD" alt="Activity Graph" />
+<img src="/github-metrics.svg" alt="GitHub Metrics" />
 
 </div>
 

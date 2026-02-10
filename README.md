@@ -87,7 +87,7 @@ High-load TDS handling **millions of daily requests** with smart load balancing 
 
 `PHP` `Redis` `ClickHouse` `Nginx`
 
-**Impact:** 99.9% uptime · M+ requests/day
+**Impact:** 99.9% uptime · 1M+ requests/day
 
 </td>
 <td width="50%">

@@ -151,27 +151,6 @@ Modular AI system for Twitch streams — computer vision, speech recognition/gen
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/QDenka">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=qdenka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/QDenka">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=qdenka&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=70A5FD&currStreakLabel=70A5FD" alt="GitHub Streak" />
-</a>
-
-</div>
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qdenka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=FFFFFF&langs_count=8)
-
-</div>
-
----
-
 ### 💼 What I Bring to the Table
 
 - 🏗️ **Architecture** — Designing scalable microservice systems from scratch
@@ -183,16 +162,6 @@ Modular AI system for Twitch streams — computer vision, speech recognition/gen
 ---
 
 <div align="center">
-
-#### 📬 Let's Connect
-
-Whether you need a backend architect, want to collaborate on open-source,<br/>or just want to talk tech over coffee — reach out!
-
-**[kaban.dev](https://kaban.dev)** · **[LinkedIn](https://www.linkedin.com/in/qdenka)**
-
----
-
-*"Ship fast, iterate faster, and never trust code that works on the first try."* 🚀
 
 ![Visitors](https://komarev.com/ghpvc/?username=qdenka&color=70A5FD&style=flat-square&label=Profile+Views)
 

@@ -1,7 +1,5 @@
 <div align="center">
 
-# Denis Khodakovskii
-
 **Senior Backend Engineer** · PHP · Python · Go · AI Integration
 
 Building high-load systems by day, teaching robots to be human by night 🤖☕

@@ -151,16 +151,6 @@ Modular AI system for Twitch streams — computer vision, speech recognition/gen
 
 ---
 
-### 📊 GitHub Metrics
-
-<div align="center">
-
-<img src="/github-metrics.svg" alt="GitHub Metrics" />
-
-</div>
-
----
-
 ### 💼 What I Bring to the Table
 
 - 🏗️ **Architecture** — Designing scalable microservice systems from scratch

@@ -10,18 +10,6 @@ Building high-load systems by day, teaching robots to be human by night 🤖☕
 
 </div>
 
----
-
-### 👋 About
-
-Backend engineer with **8+ years of experience** building high-load traffic distribution systems, AI-powered business tools, and real estate platforms processing millions of requests daily.
-
-🇻🇳 Based in Da Nang, Vietnam · 🌍 Open to remote opportunities worldwide
-
----
-
-### 🔧 Tech Stack
-
 <table>
 <tr>
 <td align="center" width="20%"><strong>Backend</strong></td>
@@ -73,91 +61,6 @@ Backend engineer with **8+ years of experience** building high-load traffic dist
 </td>
 </tr>
 </table>
-
----
-
-### 🏆 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🚦 Traffic Distribution System
-High-load TDS handling **millions of daily requests** with smart load balancing and real-time analytics.
-
-`PHP` `Redis` `ClickHouse` `Nginx`
-
-**Impact:** 99.9% uptime · 1M+ requests/day
-
-</td>
-<td width="50%">
-
-#### 🤖 AI Business Assistant
-Call transcription, intelligent analysis & meeting intelligence platform with LLM-powered insights.
-
-`Python` `Whisper` `OpenAI` `Microservices`
-
-**Impact:** 50K+ calls processed
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🏠 Real Estate CRM
-Full-cycle property management system for agencies — listings, clients, deals, analytics.
-
-`PHP/Laravel` `Vue.js` `PostgreSQL`
-
-**Impact:** 10K+ properties managed
-
-</td>
-<td width="50%">
-
-#### 🎮 [Empire Game](https://github.com/QDenka/empire-game)
-Blockchain social strategy game — Telegram Mini App on TON with city building, guilds & PvP.
-
-`TypeScript` `Go` `PostgreSQL` `Redis`
-
-**Impact:** ⭐ Open Source · Web3 Gaming
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🚀 [MacCleanCLI](https://github.com/QDenka/MacCleanCLI)
-Sleek & powerful CLI app for macOS — disk cleanup, system optimization, interactive terminal UI.
-
-`Python` `CLI` `macOS`
-
-**Impact:** ⭐ 25 stars · 4 forks
-
-</td>
-<td width="50%">
-
-#### 🎭 AI Streamer Bot
-Modular AI system for Twitch streams — computer vision, speech recognition/generation, LLM routing.
-
-`Python` `Microservices` `STT/TTS` `CV`
-
-**Impact:** Multi-instance architecture
-
-</td>
-</tr>
-</table>
-
----
-
-### 💼 What I Bring to the Table
-
-- 🏗️ **Architecture** — Designing scalable microservice systems from scratch
-- ⚡ **High-Load** — Building systems that handle millions of requests without breaking a sweat
-- 🤖 **AI Integration** — Connecting LLMs, STT/TTS, and computer vision into real business workflows
-- 🚀 **Full Cycle** — From database schema to deployment pipeline, I own the whole stack
-- ☕ **Reliability** — 10+ years of shipping production code (and only occasionally breaking it)
-
----
 
 <div align="center">
 

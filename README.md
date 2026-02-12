@@ -2,7 +2,6 @@
 
 **Senior Backend Engineer** · PHP · Python · Go · AI Integration
 
-Building high-load systems by day, teaching robots to be human by night 🤖☕
 
 [![Website](https://img.shields.io/badge/kaban.dev-000000?style=for-the-badge&logo=safari&logoColor=white)](https://kaban.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qdenka)
@@ -61,8 +60,3 @@ Building high-load systems by day, teaching robots to be human by night 🤖☕
 </tr>
 </table>
 
-<div align="center">
-
-![Visitors](https://komarev.com/ghpvc/?username=qdenka&color=70A5FD&style=flat-square&label=Profile+Views)
-
-</div>
